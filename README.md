@@ -131,7 +131,7 @@ Unicode coverage makes Fira Code a great choice for mathematical writing:
 | **NeoVim-gtk** |
 | **NetBeans** |
 | **Notepad** (Windows) |
-| **Notepad++** (with a [workaround](https://github.com/notepad-plus-plus/notepad-plus-plus/issues/2287#issuecomment-256638098))  |
+| **Notepad++** ([instructions](https://github.com/tonsky/FiraCode/issues/1555))  |
 | **Notepad3** ([instructions](https://github.com/rizonesoft/Notepad3/issues/361#issuecomment-365977420))|
 | **Nova** |
 | **PhpStorm** (2016.2+, [instructions](https://github.com/tonsky/FiraCode/wiki/IntelliJ-products-instructions)) |
@@ -168,7 +168,7 @@ Unicode coverage makes Fira Code a great choice for mathematical writing:
 | Hyper (see [#3607](https://github.com/vercel/hyper/issues/3607)) | Asbru Connection Manager |
 | iTerm 2 | Cmder |
 | Kitty | ConEmu |
-| Konsole | GNOME Terminal |
+| Konsole | GNOME Terminal ([ticket](https://gitlab.gnome.org/GNOME/vte/-/issues/192)) |
 | Mintty | gtkterm ([ticket](https://gitlab.gnome.org/GNOME/vte/-/issues/1661)) |
 | QTerminal | guake ([ticket](https://gitlab.gnome.org/GNOME/vte/-/issues/1661)) |
 | st ([patch](https://st.suckless.org/patches/ligatures/)) | LXTerminal ([ticket](https://gitlab.gnome.org/GNOME/vte/-/issues/1661)) |
